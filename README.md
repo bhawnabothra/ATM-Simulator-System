@@ -19,7 +19,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 ## Project Description
 
-It's a desktop based application. Replica of ATM SYSTEM. In this project, we can login using cardnumber and pin if data already exist in a database otherewise signup can be done. We can also perform various functions like deposit,withdrawal,fast cash,pin change,enquiry of balance,and viwing the mini statement. All the data are stored in a database.
+It's a desktop based application. Replica of ATM SYSTEM. In this project, we can login using cardnumber and pin if data already exist in a database otherewise signup can be done. We can also perform various functions like deposit,withdrawal,fast cash,pin change,enquiry of balance,and viewing the mini statement. All the data are stored in a database.
 
 Language used - Core JAVA(mainly OOPS concept)
 Packages used - AWT, Swing ,Sql
